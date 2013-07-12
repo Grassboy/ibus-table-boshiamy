@@ -62,7 +62,7 @@ DYNAMIC_ADJUST = TRUE
 AUTO_COMMIT = TRUE
 
 ### Use full width punctuation by default
-DEF_FULL_WIDTH_PUNCT = TRUE
+DEF_FULL_WIDTH_PUNCT = FALSE
 
 ### Not use full width letter by default
 DEF_FULL_WIDTH_LETTER = FALSE
@@ -130,7 +130,7 @@ LAYOUT = us
 ### becuase [2,2] ∩ [3,3] ∩ [4,+∞] = [2,+∞], which is the range of length
 ### of phrase. This have to be satisfied if you need ibus-table to build up
 ### your own inputed phrase via your daily using.
-###RULES = ce2:p11+p12+p21+p22;ce3:p11+p21+p22+p31;ca4:p11+p21+p31+p41
+### RULES = ce2:p11+p12+p21+p22;ce3:p11+p21+p22+p31;ca4:p11+p21+p31+p41
 
 END_DEFINITION
 
@@ -2372,8 +2372,7 @@ cix	蛾	1
 ciyd	蠩	1
 ci,		1
 ci.		1
-cj	車	1
-cj	中	1
+cj	車	2
 cj	舛	1
 cjv	中	1
 cjr	舛	1
@@ -6854,8 +6853,7 @@ hiq	秞	1
 hiqv	秞	1
 hi,		1
 hi.		1
-hj	手	1
-hj	乎	1
+hj	手	2
 hjv	乎	1
 hja	憤	1
 hja	穄	1
@@ -34341,4 +34339,31 @@ yx	乄	1
 yeff	壗	1
 ycnb	壗	1
 tne	槝	1
+
+desc	叙述	1
+key	鑰匙	1
+ojou	口胡	1
+ocst	口桀	1
+,p	ˊ	1
+,n	ˋ	1
+,av	丫	1
+
+line	-------------------------------------------------	1
+br.	[[BR]]	1
+
+borde	border:1px solid red;	1
+unloo	if($error_loop++>100) break;	1
+time	(new Date()).getTime()	1
+forlo	for(var i = 0, n = .length; i < n; ++i){}	1
+query	$result = mysqli_query_new($link, sprintf(""));	1
+fetch	mysqli_fetch_htmlarray($result, MYSQLI_ASSOC);	1
+loads	javascript:(function(url){var newRequest = document.createElement("script");newRequest.type = "text/javascript";newRequest.src = url;document.getElementsByTagName("head")[0].appendChild(newRequest);})("");	1
+exitr	/*exit_r*/ if($_GET["_debug"]=="yes"){printf("<xmp>%s</xmp>", print_r( ,true));exit();}	1
+funct	javascript:(function(){})()	1
+alert	javascript:alert()	1
+
+name	吳嘉祥	1
+mail	jeson.wu@msa.hinet.net	1
+work	國立中央大學資訊工程學系	1
+
 END_TABlE
