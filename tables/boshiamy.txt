@@ -17096,8 +17096,6 @@ rij	莆	1
 rim	粢	1
 rimb	資	1
 rin	歡	1
-rin	次	1
-rin	芡	1
 rinv	次	1
 rinr	芡	1
 rio	咨	1
@@ -31049,7 +31047,6 @@ pbe	阜	1
 pbes	阜	1
 pben	师	1
 pbf	伦	1
-pbi	次	1
 pbk	并	1
 pbki	仪	1
 pbn	帅	1
@@ -31252,7 +31249,6 @@ pqo	备	1
 pqrb	魉	1
 pr	侧	1
 prc	仅	1
-pri	次	1
 prlh	惫	1
 prlq	备	1
 prok	侬	1
