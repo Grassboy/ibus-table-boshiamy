@@ -3023,10 +3023,10 @@ czzz	孱	1
 c.	！	1
 d	的	1
 da	歹	1
-daa	太	1
-daa	刃	1
-daa	奪	1
-daa	時	1
+daa	太	6
+daa	刃	5
+daa	奪	4
+daa	時	3
 daav	刃	1
 daar	奪	1
 daas	時	1
@@ -11950,7 +11950,6 @@ miq	釉	1
 miqi	眒	1
 miqp	黴	1
 miri	行	1
-miri	衖	1
 miriv	衖	1
 mirn	彶	1
 mirp	微	1
@@ -27871,8 +27870,7 @@ cyzq	蛘	1
 czez	蝶	1
 czqf	轳	1
 daa	夺	1
-daa	时	1
-daas	时	1
+daa	时	2
 dac	殓	1
 dae	亘	1
 dae	殓	1
@@ -30345,7 +30343,6 @@ mini	同	1
 mint	同	1
 mipu	汲	1
 miqp	霉	1
-miri	弄	1
 mirn	汲	1
 mirp	阚	1
 mirt	弄	1
