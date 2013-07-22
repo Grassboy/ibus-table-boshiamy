@@ -9255,7 +9255,6 @@ ka,		1
 ka.		1
 kb	質	1
 kba	其	1
-kba	環	1
 kbav	環	1
 kbbu	函	1
 kbd	氛	1
