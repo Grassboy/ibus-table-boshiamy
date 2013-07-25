@@ -13934,7 +13934,7 @@ oon	圜	1
 oonv	圜	1
 oonb	喎	1
 oond	斝	1
-ooo	品	1
+ooo	品	2
 ooo	回	1
 ooov	回	1
 ooob	鄵	1
