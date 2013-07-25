@@ -6266,8 +6266,8 @@ gpty	麵	1
 gpus	麰	1
 gpvz	麧	1
 gpwu	麶	1
-gpx	收	1
-gpx	麥	1
+gpx	收	3
+gpx	麥	2
 gpx	敿	1
 gpx	収	1
 gpxv	麥	1
