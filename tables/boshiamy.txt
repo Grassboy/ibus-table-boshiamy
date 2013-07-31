@@ -20164,8 +20164,8 @@ trjq	樺	1
 trk	杇	1
 trk	栲	1
 trkv	栲	1
-trl	充	1
-trl	机	1
+trl	充	3
+trl	机	2
 trl	機	1
 trlv	机	1
 trlr	機	1
@@ -20666,7 +20666,7 @@ uev	膗	1
 uew	腱	1
 uez	脬	1
 uf	熊	1
-ufa	魚	1
+ufa	魚	2
 ufa	熊	1
 ufav	熊	1
 ufad	鱠	1
@@ -21325,7 +21325,7 @@ uubpv	朘	1
 uue	朋	1
 uues	繇	1
 uufc	螚	1
-uuff	能	1
+uuff	能	2
 uuff	熊	1
 uuffv	熊	1
 uufh	態	1
