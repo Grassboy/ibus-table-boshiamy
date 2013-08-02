@@ -7582,8 +7582,8 @@ ij	甫	1
 ijb	謓	1
 ijd	證	1
 ije	講	1
-ijj	計	1
-ijj	誶	1
+ijj	計	3
+ijj	誶	2
 ijj	講	1
 ijjv	誶	1
 ijjr	講	1
